@@ -1,4 +1,4 @@
-# Task 2
+# App Checker
 
 **How To run**
 
